@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/best-car/static/css/main.48387f3c.css",
-    "main.js": "/best-car/static/js/main.ef419cef.js",
+    "main.css": "/best-car/static/css/main.45a92853.css",
+    "main.js": "/best-car/static/js/main.2551807e.js",
     "static/media/Montserrat-SemiBold.ttf": "/best-car/static/media/Montserrat-SemiBold.93b37a465fc4ec0d0415.ttf",
     "static/media/Montserrat-Regular.ttf": "/best-car/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
     "static/media/Manrope-SemiBold.ttf": "/best-car/static/media/Manrope-SemiBold.310f108cc524df0e5ffc.ttf",
@@ -11,11 +11,11 @@
     "static/media/favorite.svg": "/best-car/static/media/favorite.47c0e7882c620e0d6986319b59cd539c.svg",
     "static/media/favorite-active.svg": "/best-car/static/media/favorite-active.3c6e87bb299c1cf5501de17c1dd20787.svg",
     "static/media/close.svg": "/best-car/static/media/close.70f65c7e87a4e1e47d5b73074981fa46.svg",
-    "main.48387f3c.css.map": "/best-car/static/css/main.48387f3c.css.map",
-    "main.ef419cef.js.map": "/best-car/static/js/main.ef419cef.js.map"
+    "main.45a92853.css.map": "/best-car/static/css/main.45a92853.css.map",
+    "main.2551807e.js.map": "/best-car/static/js/main.2551807e.js.map"
   },
   "entrypoints": [
-    "static/css/main.48387f3c.css",
-    "static/js/main.ef419cef.js"
+    "static/css/main.45a92853.css",
+    "static/js/main.2551807e.js"
   ]
 }
