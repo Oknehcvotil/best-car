@@ -35,10 +35,16 @@
   src: url('assets/fonts/Montserrat-SemiBold.ttf');
 }
 
+html {
+  height: 100%;
+}
+
 body {
   margin: 0;
   font-family: 'Manrope', sans-serif;
-  height: 100%;
+  height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
 }
 
 code {
@@ -86,7 +92,7 @@ h6 {
   margin: 0;
 }
 
-ul{
+ul {
   margin: 0;
   padding: 0;
   list-style: none;
